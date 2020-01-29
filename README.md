@@ -8,8 +8,4 @@ python 3.5
 cuda (GPU version)
 cudnn
 tensorflow
------------------------
-How to run:
-go to the root folder of this project and open a terminal, execute: 
-
-$  ./webcam_movement.py
+-------------------
